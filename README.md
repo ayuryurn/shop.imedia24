@@ -14,3 +14,11 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+
+* Shop rest api assignment 
+* Rest Api Description : 
+     * localhost:8080/api/v1/products for (get) method
+     * localhost:8080/api/v1/product/(sku) for (get,delete) methods
+     * localhost:8080/api/v1/product for (post) method
+     * localhost:8080/api/v1/product?skus=(list of skus you want to fetch for exmple 1,2,3) for (get) method
+
